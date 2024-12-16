@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="display-6">MarvelAPI</h2>
+<div>
+    <label for="entityPath">https://localhost:7294/api/</label>
+    <input type="text" id="entityPath" placeholder="characters/1" />
+    <button id="fetchEntity" onclick="fetchEntity()">Request</button>
+</div>
+
+<h4>Result:</h4>
+
+<!-- Scrollable container for entity details -->
+<div id="entityDetails" style="margin-top: 20px; height: 400px; width: 75%; overflow-y: auto; border: 1px solid #ccc; padding-left: 70px; background-color: #ffffff; color: #343a40;">
+    <!-- JSON output will be displayed here -->
+</div>
+
+<script>
+    async function fetchEntity() {
+        const entityPath = document.getElementById('entityPath').value;
+        if (!entityPath) {
+            alert('Please enter an entity path.');
+            return;
+        }
+
+        try {
+            const response = await fetch(`https://localhost:7294/api/${entityPath}`);
+            if (!response.ok) {
+                throw new Error('Entity not found');
+            }
+            const entity = await response.json();
+
+            // Display full entity details as formatted JSON
+            document.getElementById('entityDetails').innerHTML = `<pre>${JSON.stringify(entity, null, 2)}</pre>`;
+
+        } catch (error) {
+            document.getElementById('entityDetails').innerHTML = `<p style="color:red;">${error.message}</p>`;
+        }
+    }
+</script>
