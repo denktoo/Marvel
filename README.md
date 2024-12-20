@@ -7,7 +7,7 @@ This project is an ASP.NET Core MVC Web API that allows you to explore Marvel Un
 To set up the Marvel API, install the appropriate versions of the necessary packages:
 ```
 Install-Package Microsoft.EntityFrameworkCore -Version 8.0.10
-Install-Package Pomelo.EntityFrameworkCore.MySql
+Install-Package Pomelo.EntityFrameworkCore.MySql -Version 8.0.2
 Install-Package Microsoft.EntityFrameworkCore.Tools -Version 8.0.10
 Install-Package Microsoft.EntityFrameworkCore.Design -Version 8.0.10
 ```
