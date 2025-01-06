@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Denis\\source\\Marvel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -11,20 +23,8 @@
       "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EDC44D1-AB28-4272-A0B0-85658766AE53}|Marvel.csproj|c:\\users\\denis\\source\\marvel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Denis\\source\\Marvel\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
@@ -205,7 +205,7 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
               "ToolTip": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\css\\style.css",
               "RelativeToolTip": "wwwroot\\css\\style.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-06T21:30:32.788Z",
               "EditorCaption": ""
@@ -344,27 +344,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Denis\\source\\Marvel\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Denis\\source\\Marvel\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T07:22:20.036Z"
+              "WhenOpened": "2024-12-16T07:22:20.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Denis\\source\\Marvel\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
               "ToolTip": "C:\\Users\\Denis\\source\\Marvel\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T07:22:16.482Z"
+              "WhenOpened": "2024-12-16T07:22:16.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -548,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -556,8 +558,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-16T07:19:22.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T07:19:22.004Z"
             },
             {
               "$type": "Document",

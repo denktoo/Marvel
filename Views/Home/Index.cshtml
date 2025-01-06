@@ -6,6 +6,15 @@
     .transition-effect {
         transition: background-color 0.3s ease, color 0.3s ease;
     }
+
+    button:hover {
+        background-color: #495057;
+        color: #ffffff;
+    }
+
+    input:focus {
+        outline: none; /* Removes the default focus outline */
+    }
 </style>
 
 <h2 class="display-6" style="text-align: center;">MarvelAPI</h2>
@@ -20,9 +29,7 @@
 
 
     <button id="fetchEntity" onclick="fetchEntity()"
-            class="bg-dark text-white py-2 px-3 cursor-pointer fs-6 transition-effect border border-dark border border-start-0 rounded-end"
-            onmouseover="this.style.backgroundColor='#495057'; this.style.color='#ffffff';"
-            onmouseout="this.style.backgroundColor='#343a40'; this.style.color='#ffffff';">
+            class="bg-dark text-white py-2 px-3 cursor-pointer fs-6 transition-effect border border-dark border border-start-0 rounded-end">
         Request
     </button>
 </div>
