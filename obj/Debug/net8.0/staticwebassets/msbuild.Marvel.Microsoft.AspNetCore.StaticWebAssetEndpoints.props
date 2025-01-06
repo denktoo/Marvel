@@ -12,6 +12,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 17:50:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Marvel/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig\u002BM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"718"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 21:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Marvel/css/style.gbljis9enn.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gbljis9enn"},{"Name":"integrity","Value":"sha256-rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig\u002BM="},{"Name":"label","Value":"_content/Marvel/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"718"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 21:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Marvel/js/script.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FVuaMIi/vWL7JfWY0YgJ\u002B0X3EaGgeyVOBdTZ8oEPy6A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"745"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022FVuaMIi/vWL7JfWY0YgJ\u002B0X3EaGgeyVOBdTZ8oEPy6A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 21:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Marvel/js/script.vn9shtg5hw.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vn9shtg5hw"},{"Name":"integrity","Value":"sha256-FVuaMIi/vWL7JfWY0YgJ\u002B0X3EaGgeyVOBdTZ8oEPy6A="},{"Name":"label","Value":"_content/Marvel/js/script.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"745"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022FVuaMIi/vWL7JfWY0YgJ\u002B0X3EaGgeyVOBdTZ8oEPy6A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 21:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Marvel/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

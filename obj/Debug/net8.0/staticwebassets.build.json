@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yuGxXGWnmhAc/8f3uYCjylkqB1SK/hHpt/v4kvVhN8s=",
+  "Hash": "s5aXW+Zbfu//gjZ9IR79yg5eQ4MzTVS3cWORj2+DJTY=",
   "Source": "Marvel",
   "BasePath": "_content/Marvel",
   "Mode": "Default",
@@ -36,6 +36,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\css\\style.css",
+      "SourceId": "Marvel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\",
+      "BasePath": "_content/Marvel",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gbljis9enn",
+      "Integrity": "rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\js\\script.js",
+      "SourceId": "Marvel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\",
+      "BasePath": "_content/Marvel",
+      "RelativePath": "js/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vn9shtg5hw",
+      "Integrity": "FVuaMIi/vWL7JfWY0YgJ+0X3EaGgeyVOBdTZ8oEPy6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
       "Identity": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\js\\site.js",
@@ -1336,6 +1378,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 21:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig+M="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.gbljis9enn.css",
+      "AssetFile": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 21:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gbljis9enn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rESnEYXAHFdhUE6lTXh6XoEIyCq0zq2r6wXblEYig+M="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FVuaMIi/vWL7JfWY0YgJ+0X3EaGgeyVOBdTZ8oEPy6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 21:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FVuaMIi/vWL7JfWY0YgJ+0X3EaGgeyVOBdTZ8oEPy6A="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.vn9shtg5hw.js",
+      "AssetFile": "C:\\Users\\Denis\\source\\Marvel\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FVuaMIi/vWL7JfWY0YgJ+0X3EaGgeyVOBdTZ8oEPy6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 21:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vn9shtg5hw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FVuaMIi/vWL7JfWY0YgJ+0X3EaGgeyVOBdTZ8oEPy6A="
         }
       ]
     },

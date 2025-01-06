@@ -1,4 +1,4 @@
-# Marvel
+# MarvelAPI
 
 This project is an ASP.NET Core MVC Web API that allows you to explore Marvel Universe to provide information about characters, movies, planets, and series. It is built using .NET 8 and utilizes the Entity Framework Core for database interactions.
 
