@@ -115,3 +115,4 @@ C:\Users\Denis\source\Marvel\obj\Debug\net8.0\refint\Marvel.dll
 C:\Users\Denis\source\Marvel\obj\Debug\net8.0\Marvel.pdb
 C:\Users\Denis\source\Marvel\obj\Debug\net8.0\Marvel.genruntimeconfig.cache
 C:\Users\Denis\source\Marvel\obj\Debug\net8.0\ref\Marvel.dll
+C:\Users\Denis\source\Marvel\obj\Debug\net8.0\Marvel.sourcelink.json

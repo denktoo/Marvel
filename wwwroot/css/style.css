@@ -1,0 +1,44 @@
+﻿﻿.resources-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 80vh;
+}
+
+.about-section {
+    flex: 1;
+    padding: 20px;
+}
+
+    .about-section h1 {
+        color: #cc0000;
+    }
+
+    .about-section h2 {
+        margin-top: 20px;
+        color: #cc0000;
+    }
+
+    .about-section ul {
+        list-style: square;
+        margin-left: 20px;
+    }
+
+    .about-section p {
+        margin-bottom: 10px;
+    }
+
+/* Mobile Responsiveness */
+@media screen and (max-width: 768px) {
+    .resources-container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .content {
+        width: 100%;
+    }
+}

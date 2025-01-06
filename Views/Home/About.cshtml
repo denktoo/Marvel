@@ -1,6 +1,42 @@
-﻿@{
+﻿﻿@{
     ViewData["Title"] = "About";
 }
 
-<h1>About This Application</h1>
-<p>This application allows you to look up Marvel characters and their Home Planets, Movies and Series using their IDs.</p>
+<head>
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+</head>
+
+<div class="resources-container">
+
+    <div class="about-section">
+        <h1>@ViewData["Title"]</h1>
+
+        <p>Welcome to the Marvel Universe API Explorer! This application allows you to explore the vast world of Marvel characters, movies, series, and planets. Whether you're a dedicated fan or a newcomer, you'll find information about your favorite superheroes, their affiliations, and the amazing worlds they inhabit. Navigate the Marvel Universe's epic tales and history, where every hero has a story, and every planet has its own unique ecosystem.</p>
+
+        <p>The Marvel Universe is home to a wide array of characters, each with their own complex backstory and dynamic relationships. From the mighty Avengers to the mysterious X-Men, this platform provides you with information you need to understand the heroes and villains who shape the Marvel world.</p>
+
+        <h2>Features</h2>
+        <ul>
+            <li>View detailed profiles of Marvel characters, including their aliases, affiliations, and key traits. Learn more about their powers, backstories, and roles in the Marvel Universe.</li>
+            <li>Explore the Marvel Cinematic Universe (MCU) with in-depth information about movies and series. Discover timelines, character appearances, and insights into how each story fits into the larger Marvel narrative.</li>
+            <li>Discover planets and realms from the Marvel Universe, with details about their climates, terrains, populations, and pivotal events that shaped their histories.</li>
+            <li>Use an interactive search feature to quickly find Marvel characters, movies, and planets based on specific criteria such as names, affiliations, or titles.</li>
+            <li>Visualize the vast connections between characters, events, and storylines in the Marvel Universe. See how heroes, villains, and key events interweave into an expansive, interconnected story.</li>
+        </ul>
+
+
+        <h2>Technology Stack</h2>
+        <ul>
+            <li><strong>ASP.NET Core MVC:</strong> For routing and controllers using a repository pattern.</li>
+            <li><strong>Entity Framework Core:</strong> For database interaction and migrations.</li>
+            <li><strong>MySQL:</strong> Stores and organizes API data for efficient retrieval.</li>
+            <li><strong>JavaScript:</strong> Enables dynamic interactivity and real-time API requests on the client side.</li>
+            <li><strong>Bootstrap:</strong> Ensures a responsive and visually appealing design across various devices.</li>
+            <li><strong>Dependency Injection:</strong> Used to manage repositories and services.</li>
+        </ul>
+
+        <h2>Explore the Marvel Universe</h2>
+        <p>From iconic characters to epic tales, there's always more to uncover.</p>
+    </div>
+
+</div>

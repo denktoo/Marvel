@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/Marvel/css/site.8vpklckhee.css">
+    <StaticWebAssetEndpoint Include="_content/Marvel/css/site.22jr59cmn3.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8vpklckhee"},{"Name":"integrity","Value":"sha256-9CSu4vGAe8I3NYZEdT3RhBdkR//ne8/0emyKX37lEgE="},{"Name":"label","Value":"_content/Marvel/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1045"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229CSu4vGAe8I3NYZEdT3RhBdkR//ne8/0emyKX37lEgE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 01:51:30 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"22jr59cmn3"},{"Name":"integrity","Value":"sha256-xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0="},{"Name":"label","Value":"_content/Marvel/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 17:50:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Marvel/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9CSu4vGAe8I3NYZEdT3RhBdkR//ne8/0emyKX37lEgE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1045"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229CSu4vGAe8I3NYZEdT3RhBdkR//ne8/0emyKX37lEgE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 01:51:30 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xj1r0rej26nVWtT7hBopbYPRIaB010CYfNRjolyp7k0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 17:50:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Marvel/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
